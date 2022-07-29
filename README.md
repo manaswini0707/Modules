@@ -52,8 +52,7 @@ Module 8
 (lab-1,
 lab-2,
 lab-3,
-lab-4,
-Project)
+lab-4)
 
 Module 9
 (lab-1,
